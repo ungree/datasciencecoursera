@@ -1,4 +1,4 @@
-## Run_Analysis script description
+## Run_Analysis Script Description
 
 The run analysis script reads the training, test and features names data and creates a new text file with means and standard deviations.
 
